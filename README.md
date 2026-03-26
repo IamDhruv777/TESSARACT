@@ -8,7 +8,7 @@ AI LaunchPilot is an **AI-powered marketing automation pipeline** that generates
 
 ## 🏗️ Architecture
 
-
+```
 ┌─────────────────────┐     Webhook      ┌─────────────────────┐
 │  Product Backend    │ ──────────────►  │  System Backend     │
 │  (Admin Console)    │   POST /webhook  │  (AI Pipeline)      │
@@ -23,6 +23,7 @@ AI LaunchPilot is an **AI-powered marketing automation pipeline** that generates
                                          │  localhost:5173     │
                                          └─────────────────────┘
 
+```
 
 ## 🧠 AI Pipeline (8 Stages)
 
