@@ -1,6 +1,6 @@
 # 🚀 AI LaunchPilot — AI Marketing Automation Engine
 
-> Built at HackVerse 2026 | Team CODEPULSE
+> Built at Tessaract 2026 | Team CODEPULSE
 
 ## What is AI LaunchPilot?
 
